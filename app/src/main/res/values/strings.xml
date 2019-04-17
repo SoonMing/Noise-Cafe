@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test_Cafe2</string>
+    <string name="slogan">No need to Queue, Just Order</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
